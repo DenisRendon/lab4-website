@@ -4,7 +4,7 @@
 <body>
     <header>
         <h1>My top foods</h1>
-        <a href="#">Link to Partner's Page</a>
+        <a href="#">Link to Allens Page</a>
     </header>
 
     <main>
